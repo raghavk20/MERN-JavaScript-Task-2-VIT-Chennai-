@@ -1,1 +1,1 @@
-# MERN-JavaScript-Task-2
+# MERN-JavaScript-Task-2 (VIT Chennai)
